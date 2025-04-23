@@ -7,8 +7,20 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+# OS-specific
+.DS_Store
+Thumbs.db
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Node modules and builds
+node_modules/
+.env
+dist/
+build/
+.next/
+.cache/
 
 # Runtime data
 pids
@@ -122,11 +134,17 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
+# Python cache (in case of script utils)
+__pycache__/
+*.pyc
+
 # TernJS port file
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+# VS Code settings
+.vscode/
 
 # yarn v2
 .yarn/cache
