@@ -26,7 +26,6 @@ ReflectAI is a personal journaling tool enhanced by an AI agent that responds to
 | AI/NLP       | OpenAI GPT-4 (via API)         |
 | Data Storage | SQLite or Firebase             |
 | Visualization| Recharts or D3.js              |
-| Optional     | LangChain, Pinecone (for embeddings)
 
 ---
 
