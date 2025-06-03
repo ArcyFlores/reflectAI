@@ -1,6 +1,8 @@
 # ReflectAI 🧠  
 An AI-powered mental health journaling assistant for reflection, pattern tracking, and self-awareness.
 
+Stackblitz Link: https://stackblitz.com/edit/github-i6zhsw91?file=README.md
+
 ## ✨ Overview
 ReflectAI is a personal journaling tool enhanced by an AI agent that responds to your thoughts with empathy, insights, and prompts. Inspired by Lore.co, this project combines AI agents and "vibe coding" to help users process emotions, discover patterns, and reflect more intentionally over time.
 
